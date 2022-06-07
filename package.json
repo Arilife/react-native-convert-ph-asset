@@ -12,9 +12,6 @@
   ],
   "author": "jzyds",
   "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.41.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jzyds/react-native-convert-ph-asset.git"
